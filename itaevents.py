@@ -13,7 +13,7 @@ import re
 from urllib.parse import quote_plus  # Add this import
 
 # Constants
-LINKMFP = "https://proxiaml.onrender.com"
+LINKMFP = "https://daddus-proxiaml.hf.space"
 PASSWORD = "proxiaml"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
