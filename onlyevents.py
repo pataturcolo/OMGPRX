@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import time
 # Costanti
 
-LINKMFP = "https://proxiaml.onrender.com"
+LINKMFP = "https://daddus-proxiaml.hf.space"
 PASSWORD = "proxiaml"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
